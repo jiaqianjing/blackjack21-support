@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jiaqianjing.github.io/blackjack21-support/sitemap.xml
